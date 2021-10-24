@@ -14,17 +14,33 @@ I'm an internal influencer for a data-driven culture and bring new technologies 
 
 **Background in:** Python, Machine Learning, Data Visualization, Power BI Developer,AWS, SQL.
 
-**Links:**
-* [LinkedIn](https://bit.ly/2Zh0HgG)
-* [Medium](https://medium.com/@graciele.santos)
-* [Instagram](https://www.instagram.com/graci.py/)
 
 
 ## Projetos:
 Veja os tutoriais publicados:
 
 ---
+## Contato
+<p align="center">
+  <a href="https://bit.ly/2Zh0HgG">
+    <img src="https://img1.gratispng.com/20180320/uaq/kisspng-blue-area-text-brand-apps-linkedin-5ab0fb6d09c227.09107400152154814104.jpg" height = 30px>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@graciele.santos">
+    <img src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" height = 30px>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/graci.py/">
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height = 30px>
+  </a>
+  
+</p>
+</br>
+</br>
+  
+ ## Profile Views 🕵️‍♀️: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/graci-py/count.svg" />
+ </p>
 
-
-
-
+</p>
