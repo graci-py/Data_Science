@@ -17,6 +17,7 @@ I'm an internal influencer for a data-driven culture and bring new technologies 
 **Links:**
 * [LinkedIn](https://bit.ly/2Zh0HgG)
 * [Medium](https://medium.com/@graciele.santos)
+* [Instagram](https://www.instagram.com/graci.py/)
 
 
 ## Projetos:
